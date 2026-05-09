@@ -1,14 +1,4 @@
----
-title: RAG Security Defense Demo
-emoji: 🛡
-colorFrom: green
-colorTo: gray
-sdk: streamlit
-sdk_version: "1.40.1"
-python_version: "3.10"
-app_file: app.py
-pinned: false
----
+
 
 <div align="center">
 
